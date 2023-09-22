@@ -1,2 +1,7 @@
 some text
+we're gonna edit this! then try to remember the whole workflow for getting it up to github
+first here is "i" for insert mode
+then "Esc". then ":" for command mode... then type wq for "write" and "quit".
 
+then we will... um... will we need to stage again? maybe we'll try commit without staging this file.
+if not, we'll stage this file, then commit with a new message AND A SUBMESSAGE.... and then push
