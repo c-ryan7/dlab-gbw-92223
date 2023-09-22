@@ -1,4 +1,4 @@
-some text
+random edit.... some text
 we're gonna edit this! then try to remember the whole workflow for getting it up to github
 first here is "i" for insert mode
 then "Esc". then ":" for command mode... then type wq for "write" and "quit".
