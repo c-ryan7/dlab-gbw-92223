@@ -5,3 +5,8 @@ then "Esc". then ":" for command mode... then type wq for "write" and "quit".
 
 then we will... um... will we need to stage again? maybe we'll try commit without staging this file.
 if not, we'll stage this file, then commit with a new message AND A SUBMESSAGE.... and then push
+
+
+ok, it seemed like the subtext worked, by just not closing the " on the -m message.... and addding additional text below and then committing
+
+it also seems like I need to stage every single change I make to every file, maybe there's a way to just like, have it stage everything I change? maybe i'll make a 2nd text file and see what happens there. I also wanna try git diff....??
